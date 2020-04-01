@@ -1,3 +1,4 @@
+﻿# AQUI PUSE EL EJEMPLO A VER SI SIRVE PARA USO BASICO DE GIT
 Animales = [
     "Murcielago", "Leon","Pangolin",
     "Wombat","Axolote","Pingüino",
